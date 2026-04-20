@@ -16,6 +16,7 @@ I work across the full data stack -- ingestion, transformation, modeling, qualit
 
 ### What I'm building
 
+- [**nyc311-pipeline**](https://github.com/SplitRabbit/nyc311-pipeline) -- End-to-end ML pipeline: NYC 311 data through medallion architecture, XGBoost resolution time prediction, FastAPI + Streamlit (Python, PySpark, DuckDB, MLflow)
 - [**VitalQuest**](https://github.com/SplitRabbit/VitalQuest) -- Gamified iOS health app with on-device ML, HealthKit integration, and adaptive quest generation (Swift, SwiftUI, CoreML)
 
 ### Get in touch
